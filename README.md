@@ -1,6 +1,6 @@
 # Triple Peaks Coffee Shop
 
-This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
+Triple Peaks Coffee Shop is an interactive webpage built for a coffee shop. It contains pleasing visuals reminiscent of a coffee shop, along with a booking page and a menu page. 
 
 ## Project features
 
