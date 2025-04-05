@@ -1,13 +1,17 @@
 {
-    "name": "se_project_coffeeshop",
-    "version": "1.0.0",
-    "description": "",
-    "scripts": {
-        "start": "live-server"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "create-vite": "^6.3.1"
-    }
+  "name": "se_project_coffeeshop",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-vite": "^6.3.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "homepage": "https://jonjon5997.github.io/se_project_coffeeshop"
 }

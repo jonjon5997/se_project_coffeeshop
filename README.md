@@ -27,3 +27,7 @@ git clone https://github.com/jonjon5997/se_project_coffeeshop.git
 cd se_project_coffeeshop
 npm install
 ```
+
+Find the live site:
+
+https://jonjon5997.github.io/se_project_coffeeshop
