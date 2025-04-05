@@ -1,16 +1,29 @@
-# Triple Peaks Coffee Shop
+☕ Triple Peaks Coffee Shop
+Triple Peaks Coffee Shop is an interactive multi-page website designed to replicate the cozy ambiance and service flow of a real-world coffee shop. It features a welcoming homepage, a detailed menu, and a booking form, all styled with thoughtful layout techniques and interactive elements.
 
-Triple Peaks Coffee Shop is an interactive webpage built for a coffee shop. It contains pleasing visuals reminiscent of a coffee shop, along with a booking page and a menu page. 
+🔧 Project Features
+Semantic HTML5 structure for accessibility and SEO
 
-## Project features
+Responsive layouts using Flexbox and Positioning
 
-- Semantic HTML5
-- Flexbox
-- Positioning
-- Flat BEM file structure
-- A custom form
-- CSS animation and transform
+Organized file structure following Flat BEM (Block Element Modifier) methodology
 
-## Plan on improving the project
+Fully custom HTML form for reservations
 
-Add your ideas here :)
+CSS animations and transform effects for engaging UI interactions
+
+## 🔧 Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) installed on your machine
+
+### 1. Install dependencies
+
+Clone the repository and install the project dependencies:
+
+```bash
+git clone https://github.com/jonjon5997/se_project_coffeeshop.git
+cd se_project_coffeeshop
+npm install
+```
